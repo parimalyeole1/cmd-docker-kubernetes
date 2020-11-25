@@ -8,6 +8,7 @@
   * `$ docker pull nginx:[tag]` - pulls specific version of docker
 * List all Docker images
   * `$ docker images`
+  * `$ docker image ls`
 * Run Docker container
   * `$ docker run nginx:[tag]` - Run container but terminal is handing
   * `$ docker run -d nginx:[tag]` - Run container in detached mode (-d stands for detached)
